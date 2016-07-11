@@ -63,7 +63,7 @@ Different web browsers will interpret the same source code in different ways. GA
 
 Different web browsers interpret code in different ways. To keep sites consistent, web browser developers agreed on **standards**: "this piece of code will do this specific thing".
 
-> **Anecdote:** This is why everyone hates Internet Explorer. Microsoft invented its own standards, thinking, "Since most people use Internet Explorer, they'll conform to the standards we invent, and then we'll effectively control the internet." People just stopped using IE instead.
+> **Illustration:** This is why everyone hates Internet Explorer. Microsoft invented its own standards, thinking, "Since most people use Internet Explorer, they'll conform to the standards we invent, and then we'll effectively control the internet." People just stopped using IE instead.
 
 ## Clients and servers
 
@@ -82,6 +82,8 @@ A server application's job is to be a secretary: it "listens" for a "phone calls
   - Speed: My computer spends most of its energy making things show up on my screen. Websites are run on computers specifically designed to run servers, and they often don't even have screens.
   - Security: I take my computer with me everywhere and have used the same password for everything since 7th Grade.
 
+> **Illustration:** Screenshare logging into a Digital Ocean server via SSH and updating a live website.
+
 ### Front and back
 
 - **Question:** Shakespeare has been commissioned to write two plays: one for the King of England and one for the King of Spain. He only has time to write one play. What can he do?
@@ -93,12 +95,44 @@ A server application's job is to be a secretary: it "listens" for a "phone calls
 - **Question:** What could Facebook do instead to give the *illusion* of everyone having their own profile page?
   - Use one file as a template, instead of 1 billion separate files. Then when someone requests their profile page, load the template, insert the appropriate data into it, and send it to the user.
 
-**Back-end developers** are all about what code should be sent to your web browser.
+**Back-end developers** are all about what code should be sent to your web browser. They can do this in virtually any programming language: PHP, Ruby, Python, Java, etc.
 
-**Front-end developers** are all about what your web browser does with that code once it receives it.
+**Front-end developers** are all about what your web browser does with that code once it receives it. They deal exclusively with HTML, CSS, and Javascript.
 
 ## AMA about the Internet
+
+# Getting to know your computer (Cloud9)
+
+- [To Oz](https://github.com/ga-wdi-exercises/to_oz)
+
+- [CLI Gardening](https://github.com/ga-wdi-exercises/cli_gardening)
+
+- [DC Directory Tree](https://github.com/ga-wdi-exercises/dc_directory_tree)
+
+# Web Design
+
+## HTML
+
+- [HTML Tag Matching](https://github.com/ga-wdi-exercises/html_tag_matching)
+
+- [HTML Fixit](https://github.com/ga-wdi-exercises/html_fixit)
+
+## Developer Tools
+
+- Hijack Google
+
+## CSS
+
+- [Positioning Operation](https://github.com/ga-wdi-exercises/positioning_operation)
+
+# Git
+
+- [Love Song](https://github.com/ga-wdi-exercises/love_song)
+
+# Deploying
+
+- [Portfolio Page walkthrough](https://www.youtube.com/watch?v=I6jocfpmKP0&index=1&list=PLae1he6d1WIlAWnbAMIWFzL0ibaKr4q-P)
+
 - Terminal
 - Git
 - HTML/CSS
-- [Portfolio Page walkthrough](https://www.youtube.com/watch?v=I6jocfpmKP0&index=1&list=PLae1he6d1WIlAWnbAMIWFzL0ibaKr4q-P)
