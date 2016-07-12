@@ -103,11 +103,15 @@ A server application's job is to be a secretary: it "listens" for a "phone calls
 
 # Getting to know your computer (Cloud9)
 
-- [DC Directory Tree](https://github.com/ga-wdi-exercises/dc_directory_tree)
-
 - [CLI Gardening](https://github.com/ga-wdi-exercises/cli_gardening)
 
 - [To Oz](https://github.com/ga-wdi-exercises/to_oz)
+
+- [DC Directory Tree](https://github.com/ga-wdi-exercises/dc_directory_tree)
+
+# Git
+
+- [Love Song](https://github.com/ga-wdi-exercises/love_song)
 
 # Web Design
 
@@ -128,10 +132,6 @@ A server application's job is to be a secretary: it "listens" for a "phone calls
 - [CSS Crash Course / Review](https://github.com/ga-wdi-exercises/css-review)
 
 - [Positioning Operation](https://github.com/ga-wdi-exercises/positioning_operation)
-
-# Git
-
-- [Love Song](https://github.com/ga-wdi-exercises/love_song)
 
 ## Deploying
 
