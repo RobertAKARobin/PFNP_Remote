@@ -139,14 +139,28 @@ A server application's job is to be a secretary: it "listens" for a "phone calls
 
 # JS
 
-- [JS Data Types practice](https://github.com/ga-wdi-exercises/js-data-types)
+## Basics
 
-- [Debugger Jokes](https://github.com/ga-wdi-exercises/debugger-jokes)
+- [Ordering Code Practice](https://github.com/ga-wdi-exercises/js_order_practice/blob/master/index.html)
 
 - [Fizzbuzz Mix n' Match](https://github.com/ga-wdi-exercises/fizzbuzz_js)
 
+- [JS Data Types practice](https://github.com/ga-wdi-exercises/js-data-types)
+
 - [Errors Practice](https://github.com/ga-wdi-exercises/js-errors-practice)
+
+- [Debugging Practice](https://github.com/ga-wdi-exercises/javascript-debugging)
+
+- [Chrome Debugger Jokes](https://github.com/ga-wdi-exercises/debugger-jokes)
+
+## DOM
 
 - [DOM Practice](https://github.com/ga-wdi-exercises/js-dom-quotes/tree/jquery)
 
 - [Mini Pixart](https://github.com/ga-wdi-exercises/pixart_js_mini)
+
+- [Color Scheme Switcher](https://github.com/ga-wdi-exercises/color-scheme-switcher)
+
+## Callbacks
+
+- [Event listener practice](https://github.com/ga-wdi-exercises/event-listener-practice/blob/master/script.js)
